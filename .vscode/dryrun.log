@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/zach/workspace/haskell-playground'
+ghc -o build/Main app/Main.hs
+make: Leaving directory `/Users/zach/workspace/haskell-playground'
+ 
